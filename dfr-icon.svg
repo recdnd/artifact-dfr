@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dungeons Field Recordings">
+<title>Dungeons Field Recordings</title>
+<!-- 主筆 2026-10-02: 嫩葉樹塗裝的那一格. 照遊戲 dungeons.css `.d-cell.pe-round::after` 換算:
+     地 = forest_round_grass 的 colorAlt #658a34, 樹冠 = 它的 color #7fae43, inset 9%,
+     不規則圓角 46% 54% 50% 50% / 52% 48% 54% 46%(瀏覽器把總和超過 100% 的那邊等比縮), 亮斑 / 暗斑 / 底緣內陰影各一. -->
+<defs>
+<path id="c" d="M29.43,5.76 L30.48,5.76 A27.76,24.72 0 0 1 58.24,30.48 A25.72,27.76 0 0 1 32.52,58.24 L31.48,58.24 A25.72,23.67 0 0 1 5.76,34.57 L5.76,32.52 A23.67,26.76 0 0 1 29.43,5.76 Z"/>
+<clipPath id="k"><use href="#c"/></clipPath>
+</defs>
+<rect width="64" height="64" fill="#658a34"/>
+<g clip-path="url(#k)">
+<rect width="64" height="64" fill="#7fae43"/>
+<rect width="64" height="64" fill="#000" fill-opacity=".12"/>
+<use href="#c" transform="translate(0,-2)" fill="#7fae43"/>
+<circle cx="21.5" cy="20.45" r="11.6" fill="#fff" fill-opacity=".14"/>
+<circle cx="42.5" cy="39.35" r="12.94" fill="#000" fill-opacity=".16"/>
+</g>
+</svg>
