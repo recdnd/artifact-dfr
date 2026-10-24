@@ -195,5 +195,20 @@ window.TRACKS = [
    "en": "Great Hall",
    "ja": "大講堂"
   }
+ },
+ {
+  "id": "wand-drill-room",
+  "yt": "BJEXSwMGAOI",
+  "at": "2026-11-08T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "魔杖實技操練室",
+   "en": "Wand Drill Room",
+   "ja": "魔杖実技演習室"
+  }
  }
 ];
