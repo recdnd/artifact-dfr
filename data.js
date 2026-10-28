@@ -210,5 +210,36 @@ window.TRACKS = [
    "en": "Wand Drill Room",
    "ja": "魔杖実技演習室"
   }
+ },
+ {
+  "id": "dorm-wetland",
+  "yt": "05gxHWJwf1Y",
+  "at": "2026-11-10T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night",
+   "rain"
+  ],
+  "names": {
+   "zh": "濕地和樹棲型學生宿舍",
+   "en": "Wetland and Arboreal Student Dormitory",
+   "ja": "湿地と樹上型学生寮"
+  }
+ },
+ {
+  "id": "stone-faculty-workshop",
+  "yt": "wF5-O4tsDAI",
+  "at": "2026-11-12T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "魔法石系工房",
+   "en": "Stone Faculty Workshop",
+   "ja": "魔法石学科の工房"
+  }
  }
 ];
