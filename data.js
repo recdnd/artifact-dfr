@@ -241,5 +241,20 @@ window.TRACKS = [
    "en": "Stone Faculty Workshop",
    "ja": "魔法石学科の工房"
   }
+ },
+ {
+  "id": "shop-rabbit",
+  "yt": "D0tAWedhXQ0",
+  "at": "2026-11-14T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "YES!是兔子開的道具店",
+   "en": "YES! It's a Shop Run by a Rabbit",
+   "ja": "YES!うさぎがやってる道具屋"
+  }
  }
 ];
