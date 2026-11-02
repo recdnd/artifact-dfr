@@ -256,5 +256,21 @@ window.TRACKS = [
    "en": "YES! It's a Shop Run by a Rabbit",
    "ja": "YES!うさぎがやってる道具屋"
   }
+ },
+ {
+  "id": "capital-outer-gate",
+  "yt": "3QHp_qMRQbs",
+  "at": "2026-11-16T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night",
+   "rain"
+  ],
+  "names": {
+   "zh": "王都外城門",
+   "en": "Capital Outer Gate",
+   "ja": "王都の外城門"
+  }
  }
 ];
