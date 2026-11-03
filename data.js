@@ -272,5 +272,20 @@ window.TRACKS = [
    "en": "Capital Outer Gate",
    "ja": "王都の外城門"
   }
+ },
+ {
+  "id": "sewer-grit",
+  "yt": "opsGMTA4tk0",
+  "at": "2026-11-18T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "鏽沉",
+   "en": "Rust Settle",
+   "ja": "錆沈"
+  }
  }
 ];
