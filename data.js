@@ -287,5 +287,20 @@ window.TRACKS = [
    "en": "Rust Settle",
    "ja": "錆沈"
   }
+ },
+ {
+  "id": "capital-plaza",
+  "yt": "wQhDBEjoOHc",
+  "at": "2026-11-20T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "廣場",
+   "en": "Plaza",
+   "ja": "広場"
+  }
  }
 ];
