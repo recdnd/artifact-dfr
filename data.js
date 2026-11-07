@@ -302,5 +302,20 @@ window.TRACKS = [
    "en": "Plaza",
    "ja": "広場"
   }
+ },
+ {
+  "id": "sewer-pink-pool",
+  "yt": "3jB0j8ymUDI",
+  "at": "2026-11-22T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "粉池",
+   "en": "Pink Pool",
+   "ja": "粉池"
+  }
  }
 ];
