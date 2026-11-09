@@ -317,5 +317,21 @@ window.TRACKS = [
    "en": "Pink Pool",
    "ja": "粉池"
   }
+ },
+ {
+  "id": "bustling-street",
+  "yt": "nupH3JgW3z8",
+  "at": "2026-11-24T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night",
+   "rain"
+  ],
+  "names": {
+   "zh": "繁華街",
+   "en": "Bustling Street",
+   "ja": "繁華街"
+  }
  }
 ];
