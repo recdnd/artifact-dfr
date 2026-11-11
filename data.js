@@ -333,5 +333,20 @@ window.TRACKS = [
    "en": "Bustling Street",
    "ja": "繁華街"
   }
+ },
+ {
+  "id": "church-royal",
+  "yt": "Jnnq5N823EI",
+  "at": "2026-11-26T04:00:00+09:00",
+  "hours": 1,
+  "floor": null,
+  "state": [
+   "night"
+  ],
+  "names": {
+   "zh": "教堂2",
+   "en": "Church 2",
+   "ja": "教会2"
+  }
  }
 ];
